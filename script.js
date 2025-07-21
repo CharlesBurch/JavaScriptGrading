@@ -25,4 +25,4 @@ switch (true) {
     gradeLetter = "F";
 }
 
-console.log("The grade letter average is: " + gradeLetter + " (" + average.toFixed(2) + "%)");
+document.write("<p>The grade letter average is: " + gradeLetter + " (" + average.toFixed(2) + "%)</p>");
